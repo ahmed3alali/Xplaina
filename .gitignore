@@ -1,3 +1,5 @@
 .env
+.env* 
+.*
 
 ./Backend/node_modules
